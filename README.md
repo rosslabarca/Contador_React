@@ -24,6 +24,9 @@ Opcionalmente, puedes utilizar media queries en CSS para realizar ajustes finos 
 Screenshot
 ________________________________________
 
+![image](https://github.com/rosslabarca/Contador_React/assets/100976050/2b3bcdef-2e12-4d88-8f2f-06d53140d27f)
+
+
 Technologies
 ________________________________________
 
