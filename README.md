@@ -37,6 +37,23 @@ Chakra UI https://chakra-ui.com/ configuración en la terminal Go Comand npm i @
 Netlify app para hacer el deployed https://app.netlify.com/sites/contadorreactrl/overview
 Página: https://contadorreactrl.netlify.app/
 
+Installation
+________________________________________
+Breve comentario: cada una de las tecnologías fueron instalada de manera fácil desde sus respectivas páginas raíz, descargando la última versión firme (LTS),
+En el caso de Nodejs le dí a instalar, y luego siguiente...siguiente y finish. Los snippets fueron a través de VSC en la parte de extensiones. Con respecto a Vite y a Chakras, fue por medio de la terminal de VSC, mediante los comando de configuaración traidos de sus páginas.
+
+Steps
+________________________________________
+1.	Instalación de las tecnologías usadas.
+2.	Agregar los meta datos, Google Fonts, Favicon, scripts en el index.html.
+3.	Crear en la carpeta public la carpeta assets y luego la de imagenes, agregar todos los archivos visuales en ella.
+4.	Darle los estilos generales en el index.css.
+5.	Crear una carpeta para agregar el componente princial renderizado a app.jsx, llamado Contador.jsx.
+6.	Crear 2 carpetas para agregar los componentes secundarios (respectivamente) renderizado a main.jsx, llamados Header.jsx, y Footer.jsx.
+7.	Subir los archivos a GitHub.
+8.	Hacer el deployed en Netlify.  https://contadorreactrl.netlify.app/
+
+
 
 
 
